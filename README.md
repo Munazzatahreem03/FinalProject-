@@ -1,2 +1,2 @@
 # FinalProject-
-Learnig Git and Github
+Learnig Git and Github.
